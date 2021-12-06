@@ -1,0 +1,140 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ProjectLaporan
+</name>
+</assembly>
+<members>
+<member name="T:ProjectLaporan.db_akademikDataSet.tb_dosenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSet.tb_mahasiswaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSet.tb_matakuliahDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSet.tb_perkuliahanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSet.vw_perkuliahanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSet.tb_dosenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSet.tb_mahasiswaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSet.tb_matakuliahRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSet.tb_perkuliahanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSet.vw_perkuliahanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSet.tb_dosenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSet.tb_mahasiswaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSet.tb_matakuliahRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSet.tb_perkuliahanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSet.vw_perkuliahanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSetTableAdapters.tb_dosenTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSetTableAdapters.tb_mahasiswaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSetTableAdapters.tb_matakuliahTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSetTableAdapters.tb_perkuliahanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSetTableAdapters.vw_perkuliahanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ProjectLaporan.db_akademikDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ProjectLaporan.db_akademikDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ProjectLaporan.db_akademikDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ProjectLaporan.db_akademikDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ProjectLaporan.db_akademikDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ProjectLaporan.db_akademikDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ProjectLaporan.db_akademikDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ProjectLaporan.db_akademikDataSetTableAdapters.TableAdapterManager.UpdateAll(ProjectLaporan.db_akademikDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ProjectLaporan.db_akademikDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:ProjectLaporan.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ProjectLaporan.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ProjectLaporan.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

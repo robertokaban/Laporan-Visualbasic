@@ -1,0 +1,13 @@
+D:\VB .Net\ProjectLaporan\ProjectLaporan\bin\Debug\ProjectLaporan.exe.config
+D:\VB .Net\ProjectLaporan\ProjectLaporan\bin\Debug\ProjectLaporan.exe
+D:\VB .Net\ProjectLaporan\ProjectLaporan\bin\Debug\ProjectLaporan.pdb
+D:\VB .Net\ProjectLaporan\ProjectLaporan\bin\Debug\ProjectLaporan.xml
+D:\VB .Net\ProjectLaporan\ProjectLaporan\obj\x86\Debug\ProjectLaporan.vbprojResolveAssemblyReference.cache
+D:\VB .Net\ProjectLaporan\ProjectLaporan\obj\x86\Debug\ProjectLaporan.Form1.resources
+D:\VB .Net\ProjectLaporan\ProjectLaporan\obj\x86\Debug\ProjectLaporan.Resources.resources
+D:\VB .Net\ProjectLaporan\ProjectLaporan\obj\x86\Debug\ProjectLaporan.vbproj.GenerateResource.Cache
+D:\VB .Net\ProjectLaporan\ProjectLaporan\obj\x86\Debug\RdlCompile.cache
+D:\VB .Net\ProjectLaporan\ProjectLaporan\obj\x86\Debug\RdlCompile.compiled
+D:\VB .Net\ProjectLaporan\ProjectLaporan\obj\x86\Debug\ProjectLaporan.exe
+D:\VB .Net\ProjectLaporan\ProjectLaporan\obj\x86\Debug\ProjectLaporan.xml
+D:\VB .Net\ProjectLaporan\ProjectLaporan\obj\x86\Debug\ProjectLaporan.pdb
